@@ -1,5 +1,5 @@
 # A zonotopic representation of imprecise regression and its effects on computational cost
-*Matthew McCann and Marco De Angelis*
+*Matthew McCann and Marco De Angelis*,
 *University of Strathclyde*
 
 Reproducibility Repository for the Paper 'A zonotopic representation of imprecise regression and its effects on computational cost'. Contains all code used to produce the figures seen in the paper.
