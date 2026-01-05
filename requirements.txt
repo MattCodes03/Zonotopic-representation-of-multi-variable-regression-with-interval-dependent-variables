@@ -2,3 +2,5 @@ numpy
 matplotlib
 scikit-learn
 pyinterval
+pandas
+seaborn
